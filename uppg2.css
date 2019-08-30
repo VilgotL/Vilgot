@@ -1,0 +1,23 @@
+body {
+    color:blue;
+    background-color:lightgreen;
+}
+h1 {
+    font-family:arial;
+    font-size:22px;
+}
+p.program {
+    background-color:red;
+    color:white;
+    text-align:center;
+}
+p.tankar {
+    text-align:right;
+}
+p.mig {
+    border-style:solid;
+    border-color:yellow;
+}
+a.link {
+    text-decoration:none;
+}
